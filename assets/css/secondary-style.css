@@ -1,0 +1,53 @@
+.secondary-content {
+    width: 80%;
+    margin: 0 auto;
+    color: var(--primary-color)
+}
+.secondary-content h2 {
+    font-size: 30px;
+    margin: 20px 0;
+    text-align: center;
+    color: var(--tertiary-color);
+    padding: 10px;
+    border-bottom: 5px solid;
+    border-color: var(--primary-color);
+}
+.secondary-content h3 {
+    font-size: 25px;
+    margin: 20px 0;
+    display: flex;
+    justify-content: space-between;
+}
+.secondary-content h4 {
+    font-size: 25px;
+    margin: 18px 0;
+    display: flex;
+    justify-content: space-between;
+    font-style: italic;
+}
+.experience-item {
+    font-size: 25px;
+    margin: 18px 0;
+    display: flex;
+    justify-content: flex-start;
+}
+.secondary-content p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 20px 0;
+}
+.secondary-content ul {
+    margin: 15px 20px;
+}
+.secondary-content li {
+    color: var(--primary-color);
+    margin: 10px 0;
+}
+.secondary-content h5 {
+    font-size: 16px;
+    margin: 10px 0;
+}
+.flex-row {
+    display: flex;
+    justify-content: space-between;
+}
